@@ -1,3 +1,4 @@
+```
 src/
 ├── main/
 │   ├── java/
@@ -27,3 +28,4 @@ src/
 │   └── resources/
 │       └── application.yml
 └── test/
+```
